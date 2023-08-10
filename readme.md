@@ -1,1 +1,1 @@
-Repositório criado especialmnte para estudos da linguagem Ruby
+Repositório criado especialmente para estudos da linguagem Ruby
